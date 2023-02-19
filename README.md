@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Teynur</h1>
 <h3 align="center">A frontend developer from Belgium</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pgm-teynyuse&label=Profile%20views&color=0e75b6&style=flat" alt="pgm-teynyuse" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pgm-teynyuse" alt="pgm-teynyuse" /></a> </p>
